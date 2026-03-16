@@ -6,3 +6,4 @@ pillow
 matplotlib
 evaluate
 tqdm
+scipy
